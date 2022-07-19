@@ -1,7 +1,4 @@
 - 👋 Hi, I’m Sahibzada Waseem Ahmad
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python leading to Data Science
-- 💞️ I’m looking to collaborate on some Data Science projects
 - 📫 You can reach me through my email: wasim_ahmad2003@yahoo.com
 
 <!---
