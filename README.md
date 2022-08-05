@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sahibzada Waseem Ahmad
+- 👋 Hi, I’m Sahibzada Waseem Ahmad, a junior react developer
 - 📫 You can reach me through my email: wasim_ahmad2003@yahoo.com
 
 <!---
