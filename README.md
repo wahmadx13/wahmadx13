@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wahmadx13" alt="wahmadx13" /></a> </p>
 
-- 🔭 I’m currently working on [LSTN](https://www.lstn.ai)
+- 🔭 I’m currently working on [Ri Software](https://ri-software.com.ua/)
 
 - 👨‍💻 All of my projects are available at [https://devwahmad.com](https://devwahmad.com)
 
